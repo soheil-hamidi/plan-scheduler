@@ -31,5 +31,7 @@ Output consists of the selected projects as a list, then divided into two sets w
 equal as possible. For the example, it should look something like this:
 
 Selected Projects: 1 4 7
+
 Group 1 Projects: 1 4 Total Time = 7
+
 Group 2 Projects: 7 Total Time = 6

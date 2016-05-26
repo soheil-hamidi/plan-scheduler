@@ -8,14 +8,23 @@ The input to the problem should be in a *.txt format. In the text file, the firs
 Input for the example problem given above would be:
 
 3 10
+
 8
+
 1 2 5
+
 2 1 2
+
 3 3 4
+
 4 5 9
+
 5 6 8
+
 6 7 9
+
 7 7 13
+
 8 4 9
 
 Output consists of the selected projects as a list, then divided into two sets with total times as
